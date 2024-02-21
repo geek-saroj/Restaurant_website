@@ -23,10 +23,10 @@ const Mainbanner = () => {
         height="100%"
         autoPlay
         // loop
-        // muted
+        muted
         playsInline
         src="/../assets/bg_video.mp4"
-        className="absolute top-0 !h-screen object-cover rounded-b-3xl z-10"
+        className="absolute top-0 !h-screen object-cover  z-10"
       />
       {/* <div className="absolute top-[50%] right-[50%] z-10 ">
         <h1 className="text-white text-center text-4xl font-bold">Hello</h1>
